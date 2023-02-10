@@ -1,16 +1,19 @@
-### Hi there 👋
+Hey there! I am a passionate and creative full stack software engineer and recent graduate from App Academy 6-month SWE bootcamp. I have a long history in customer service and service industry fields. I am so ready to flex my brain muscles and continue learning and mastering new technologies and skills!
 
-<!--
-**alexvance9/alexvance9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Passions ❤️‍🔥
 
-Here are some ideas to get you started:
+* Learning
+* Community
+* Baking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Skills 🚀
+
+* Creative problem solving
+* Organization
+* Communication
+
+
+### Experience 👩‍💻
+
+React/Redux, Javascript, Express, Sequelize, Python, Flask, SQLAlchemy, Agile workflow, Git version control

@@ -23,4 +23,4 @@ React, Redux, Javascript, Express, Sequelize, Python, Flask, SQLAlchemy, Agile w
 ### Connect
 Visit my LinkedIn [Profile](https://www.linkedin.com/in/alex-vance-503537234/) to see more  
 
-Email me at *alexkvance@gmail.com*
+Get in touch at *alexkvance@gmail.com*  
